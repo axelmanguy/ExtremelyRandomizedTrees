@@ -7,8 +7,6 @@ genres = ['classical',
 		  'rock',
 		  'hiphop',
 		  'jazz',
-		  'reggae'
-		  'pop',
 		  'blues',
 		  'metal',
 		  'country']
